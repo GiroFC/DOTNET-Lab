@@ -19,5 +19,15 @@ public static class PersonRoute
             var people = await context.People.ToListAsync();
             return Results.Ok(people);
         });
+
+        route.MapPut("{id:guid}", async (Guid id, PersonRequest req, PersonContext context) => {
+            var person = await context.People.FindAsync(id);
+            if (person is null)
+                return Results.NotFound();
+
+            person.ChangeName(req.name);
+            await context.SaveChangesAsync();
+            return Results.Ok(person);
+        }); 
     }
 }
