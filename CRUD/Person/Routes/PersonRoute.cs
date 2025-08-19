@@ -29,5 +29,15 @@ public static class PersonRoute
             await context.SaveChangesAsync();
             return Results.Ok(person);
         }); 
+
+        route.MapDelete("{id:guid}", async (Guid id, PersonContext context) => {
+            var person = await context.People.FindAsync(id);
+            if (person is null)
+                return Results.NotFound();
+
+            context.People.Remove(person);
+            await context.SaveChangesAsync();
+            return Results.NoContent();
+        });
     }
 }
