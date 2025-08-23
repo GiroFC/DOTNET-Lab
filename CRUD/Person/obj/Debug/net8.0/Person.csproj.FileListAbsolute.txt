@@ -20,11 +20,6 @@ C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\Person.Mv
 C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\Person.sourcelink.json
 C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets.development.json
-C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets\msbuild.Person.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets\msbuild.build.Person.props
-C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Person.props
-C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Person.props
-C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\scopedcss\bundle\Person.styles.css
 C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\Person.csproj.Up2Date
 C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\Person.dll
@@ -134,3 +129,11 @@ C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\bin\Debug\net8.0\runtimes\
 C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\bin\Debug\net8.0\Person.staticwebassets.endpoints.json
+C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Igor\Documents\GitHub\DOTNET-Lab\CRUD\Person\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
