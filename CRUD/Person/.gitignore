@@ -1,0 +1,32 @@
+# Compilação
+bin/
+obj/
+out/
+
+# Configurações do Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+# Logs / temporários
+*.log
+*.tmp
+
+# Pacotes NuGet locais (use dotnet restore em vez de versionar)
+packages/
+
+# Arquivos de build do Rider/JetBrains
+.idea/
+
+# Configurações locais
+appsettings.Development.json
+launchSettings.json
+
+# SQLite (caso seja só para dev/teste)
+*.db
+*.sqlite
+*.db-shm
+*.db-wal
